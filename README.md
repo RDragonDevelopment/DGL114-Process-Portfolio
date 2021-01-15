@@ -2,7 +2,7 @@
 ## Ryan Dragon - N0180886
 ---
 ## **Activity 0101:**
-### **App Chosen:** *Arlo Smart Home*
+### **App Chosen:** *WorkHours*
 Good Interface | Bad Interface
 ---------------------- | -----------------------
 ![Good Interface](https://github.com/n0180886/DGL114-Process-Portfolio/blob/main/images/good_interface.PNG?raw=true) | ![Bad Interface](https://github.com/n0180886/DGL114-Process-Portfolio/blob/main/images/bad_interface.PNG?raw=true)
@@ -11,5 +11,5 @@ Good Interface | Bad Interface
  ## **Activity 0102:**
  ### **What makes an app 'usable'?**
  ### answer here
-### **What makes an app 'Intuitive'?**
+ ### **What makes an app 'Intuitive'?**
  ### answer here
