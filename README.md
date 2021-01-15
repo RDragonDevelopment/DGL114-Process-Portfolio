@@ -10,6 +10,12 @@ Good Interface | Bad Interface
  ---
  ## **Activity 0102:**
  ### **What makes an app 'usable'?**
- ### answer here
+ > Nothing makes me as frustrated as when I download an app and I am immediately bombarded with ads. An app needs to be able to be utilized as intended without intrusive ads or popups, within reason if the app is free. The speed at which an app operates is a huge factor aswell. I want an app to run fast and efficiently, if an app is slow and not processing information at a reasonable speed it gives me the impression that the app was poorly developed.
  ### **What makes an app 'Intuitive'?**
- ### answer here
+ > I believe that an app could be described as 'intuitive' by not going too far outside of the general 'norms' surrounding application development. For example, most apps have a similar way to navigate the app (usually by a fixed footer or a side menu accessible by a hamburger menu). But when developers make their app more 'unique' or take a more unique approach, this can make the app much harder and more confusing to use.
+ ### **List of 'usable' and 'intuitive' elements:**
+ - Ease of navigation
+ - Non-intrusive ads
+ - Fast and responsive
+ - Easy to read (not too busy)
+ - High contrasting elements
