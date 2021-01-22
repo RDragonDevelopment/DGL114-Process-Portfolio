@@ -82,7 +82,7 @@ Good Interface | Bad Interface
  ### **Article Chosen:** [The Color System](https://material.io/design/color/the-color-system.html#color-usage-and-palettes)
  ---
  ### **What did I learn from this article?**
- > Test
+ > By learning about the color system used by the android system, I will have a much greater potential to create apps that are visually appealing. Not only did it introduce me into the basics of how the color system works, it also showed me several tools that I can utilize in order to generate potential color palette options.
  
 </details>
 
