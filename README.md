@@ -75,12 +75,14 @@ Good Interface | Bad Interface
 </details>
 
  ---
-## **Activity 0202:**
+## **Activity 0203:**
 <details>
 <summary>Click here to expand</summary>
  
- ### **App Chosen:** *Snapchat*
- ![Bad Interface](https://github.com/n0180886/DGL114-Process-Portfolio/blob/main/images/notes.jpeg?raw=true)
+ ### **Article Chosen:** [The Color System](https://material.io/design/color/the-color-system.html#color-usage-and-palettes)
+ ---
+ ### **What did I learn from this article?**
+ > Test
  
 </details>
 
