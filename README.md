@@ -36,6 +36,41 @@ Good Interface | Bad Interface
 <details>
 <summary>Click here to expand</summary>
 
+### **App Chosen:** *Snapchat*
+---
+### **Features:**
+- android.hardware.audio.output
+- android.hardware.audio.pro
+- android.hardware.microphone
+- android.hardware.camera
+- android.hardware.camera.any
+- android.hardware.camera.autofocus
+- android.hardware.camera.external
+- android.hardware.camera.flash
+- android.hardware.camera.front
+- android.hardware.fingerprint
+- android.hardware.location
+- android.hardware.location.gps
+- android.hardware.location.network
+- android.hardware.sensor.accelerometer
+- android.hardware.sensor.gyroscope
+- android.hardware.screen.portrait
+- android.hardware.touchscreen
+- android.hardware.touchscreen.multitouch
+- android.hardware.wifi
+- android.software.webview
+- android.software.input_methods
+
+---
+### **Permissions:**
+- Location Details
+- Contact List
+- Photos
+- Microphone
+- Camera
+- Background App Refresh
+- Cellular Data
+- Siri & Search
  
 </details>
 
@@ -44,6 +79,8 @@ Good Interface | Bad Interface
 <details>
 <summary>Click here to expand</summary>
  
+ ### **App Chosen:** *Snapchat*
+ ![Bad Interface](https://github.com/n0180886/DGL114-Process-Portfolio/blob/main/images/notes.jpeg?raw=true)
  
 </details>
 
