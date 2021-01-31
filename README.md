@@ -92,6 +92,7 @@ Good Interface | Bad Interface
 ## **Activity 0301:**
 <details>
 <summary>Click here to expand</summary>
+
 <!--Enter answers here-->
  
 </details>
@@ -100,6 +101,7 @@ Good Interface | Bad Interface
 ## **Activity 0302:**
 <details>
 <summary>Click here to expand</summary>
+
 <!--Enter answers here-->
  
 </details>
