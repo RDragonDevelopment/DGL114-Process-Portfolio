@@ -110,10 +110,34 @@ Good Interface | Bad Interface
 <details>
 <summary>Click here to show answer</summary>
 
-<!--Enter answers here-->
+## **App Chosen:** *Spotify*
+
+### *Events used:*
+- onDrag()
+- onTouch()
+
+### *Events used but not discussed in ch3.1:*
+> After searching the app, I was unable to have any events occur using other input events such as onLongClick(), onFocusChange(), onKey(), or onCreateSubtextMenu(). It appeared that the only inputs accepted on the spotify app are onTouch() and onDrag().
  
 </details>
 
 ---
-###
+---
+
+## **Activity 0401:**
+<details>
+<summary>Click here to show answer</summary>
+
+ 
+</details>
+
+ ---
+## **Activity 0402:**
+<details>
+<summary>Click here to show answer</summary>
+
+
+</details>
+
+---
 ---
