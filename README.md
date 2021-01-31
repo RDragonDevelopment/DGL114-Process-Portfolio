@@ -3,7 +3,7 @@
 ---
 ## **Activity 0101:**
 <details>
- <summary>Click here to expand</summary>
+ <summary>Click here to show answer</summary>
 
 ### **App Chosen:** *WorkHours*
 Good Interface | Bad Interface
@@ -15,7 +15,7 @@ Good Interface | Bad Interface
  ---
  ## **Activity 0102:**
  <details>
- <summary>Click here to expand</summary>
+ <summary>Click here to show answer</summary>
 
  ### **What makes an app 'usable'?**
  > Nothing makes me as frustrated as when I download an app and I am immediately bombarded with ads. An app needs to be able to be utilized as intended without intrusive ads or popups, within reason if the app is free. The speed at which an app operates is a huge factor aswell. I want an app to run fast and efficiently, if an app is slow and not processing information at a reasonable speed it gives me the impression that the app was poorly developed.
@@ -34,7 +34,7 @@ Good Interface | Bad Interface
 ---
 ## **Activity 0201:**
 <details>
-<summary>Click here to expand</summary>
+<summary>Click here to show answer</summary>
 
 ### **App Chosen:** *Snapchat*
 ---
@@ -77,7 +77,7 @@ Good Interface | Bad Interface
  ---
 ## **Activity 0203:**
 <details>
-<summary>Click here to expand</summary>
+<summary>Click here to show answer</summary>
  
  ### **Article Chosen:** [The Color System](https://material.io/design/color/the-color-system.html#color-usage-and-palettes)
  ---
@@ -91,16 +91,24 @@ Good Interface | Bad Interface
 ---
 ## **Activity 0301:**
 <details>
-<summary>Click here to expand</summary>
+<summary>Click here to show answer</summary>
 
-<!--Enter answers here-->
+## **App Chosen:** *Spotify*
+
+### *List of views(activities)*
+- Home
+- Search
+- Library
+
+> Every other 'view' within the app is a menu/tab that is opened on top of the above views, and correspond directly to their parent view. For example, home has menus such as settings, recently played area, and suggested music. The search area is pretty obvious, and enables the user to search their database for more music to add into their library. The search area has no sub-menus except for the artist/playlists that come up after a search. And finally, the Library view has every menu/tab that corresponds with the user library; such as saved playlists, artists, albums, and podcasts.
+
  
 </details>
 
  ---
 ## **Activity 0302:**
 <details>
-<summary>Click here to expand</summary>
+<summary>Click here to show answer</summary>
 
 <!--Enter answers here-->
  
