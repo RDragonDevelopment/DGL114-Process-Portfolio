@@ -128,14 +128,18 @@ Good Interface | Bad Interface
 <details>
 <summary>Click here to show answer</summary>
 
+## **App Chosen:** *FaceBook*
+
+> I would consider Facebook to be a mix of flat and hierarchical. While using the app, you are presented with a bottom bar that presents multiple actions/views of equal importance. Once you reach the account information and account settings though, this is where it changes quite drastically. Due to the sheer number of settings, customization, information and security details, there is a vast amount of hierarchy being showed. There is a main screen for 'settings' and account information, but from this page specifically you can branch into groups, pages, events, jobs, ads manager, community help, fundraisers, help center, support inbox, issue reporting, terms and policies, privacy shortcuts, etc. The other views such as the home page, groups page, marketplace, and notifications views/activities can be switched through easily and generally have one clear purpose.
  
 </details>
 
  ---
-## **Activity 0402:**
+## **Activity 0403:**
 <details>
 <summary>Click here to show answer</summary>
 
+> While a top-bar can be used without any actions/menus, a bottom-bar should generally only be used when your screen contains more than one action. For example, our class exercises would not suit a bottom-bar as they've primarily only used a single action. Typically, bottom bars also have a FAB, or 'Floating Action Button'. Typically a bottom bar can be very ergonomic for an end user, and as such will contain three to five top level destinations within the app.
 
 </details>
 
