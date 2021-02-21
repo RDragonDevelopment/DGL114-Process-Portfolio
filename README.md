@@ -145,3 +145,78 @@ Good Interface | Bad Interface
 
 ---
 ---
+
+## **Activity 0502:**
+<details>
+<summary>Click here to show answer</summary>
+
+## **App Chosen:** *Snapchat*
+---
+
+### **Activity:** *Maps*
+>**Tap?** Yes, views public posts in selected area <br>
+>**Double Tap?** Yes, slightly zooms in to the map <br>
+>**Long Press?** Yes, opens up a sharing menu. <br>
+>**Scroll?** Yes, moves camera position <br>
+>**Pinch?** Yes, zooms in on map <br>
+>**Spread?** Yes, zooms out on map <br>
+>**Drag?** Yes, moves camera position <br>
+>**Fling?** From right to left, yes. Moves to messages screen. From left ro right, no.
+
+### **Activity:** *Messages*
+>**Tap?** Yes, opens conversation of person tapped on. <br>
+>**Double Tap?** Yes, opens camera to send snap directly to selected conversation. <br>
+>**Long Press?** Yes, opens contact menu relating to selected person. <br>
+>**Scroll?** Yes, can scroll through conversations. <br>
+>**Pinch?** No. <br>
+>**Spread?** No. <br>
+>**Drag?** No, only scroll. <br>
+>**Fling?** From right to left, yes. Moves to camera screen. From left ro right, yes. Moves to map screen.
+
+### **Activity:** *Camera*
+>**Tap?** Yes, focuses camera on tapped point. <br>
+>**Double Tap?** Yes, switches camera from front-back or back-front. <br>
+>**Long Press?** Yes, uses shazam music recognition. <br>
+>**Scroll?** Only bottom-top, opens up a filter manu for the camera. <br>
+>**Pinch?** Yes, zooms out. <br>
+>**Spread?** Yes, zooms in. <br>
+>**Drag?** No. <br>
+>**Fling?** From right to left, yes. Moves to friends screen. From left ro right, yes. Moves to messages screen.
+
+### **Activity:** *Stories*
+>**Tap?** Yes, selects a story to view. <br>
+>**Double Tap?** No, only acts as a single tap. <br>
+>**Long Press?** Yes, opens up contact menu. <br>
+>**Scroll?** Yes, scrolls through story options. <br>
+>**Pinch?** No. <br>
+>**Spread?** No. <br>
+>**Drag?** No, only scroll. <br>
+>**Fling?** From right to left, yes. Moves to spotlight screen. From left ro right, yes. Moves to camera screen.
+
+### **Activity:** *Spotlight*
+>**Tap?** Yes, moves on to next spotlight. <br>
+>**Double Tap?** No, acts as a single tap. <br>
+>**Long Press?** Yes, opens up sharing menu. <br>
+>**Scroll?** Yes, moves through spotlights. <br>
+>**Pinch?** No. <br>
+>**Spread?** No. <br>
+>**Drag?** No, only spread. <br>
+>**Fling?** From right to left, no. From left ro right, yes. Moves to friends screen.
+ 
+</details>
+
+ ---
+## **Activity 0503:**
+<details>
+<summary>Click here to show answer</summary>
+
+## When is the use of dialogs appropriate?
+
+> I've found that dialogs can have many uses. As quoted from [material.io](https://material.io/components/dialogs#usage), "Dialogs should be used for: Errors that block an app’s normal operation,and Critical information that requires a specific user task, decision, or acknowledgement."
+
+> This means they would be great options for choosing accounts to be logged in to, making decisions such as deleting, sharing, or canceling aa specific action, alerting the user, and even setting up an account/giving information to the app.
+
+</details>
+
+---
+---
