@@ -220,3 +220,82 @@ Good Interface | Bad Interface
 
 ---
 ---
+
+## **Activity 0801:**
+<details>
+<summary>Click here to show answer</summary>
+
+## **App Chosen:** *Spotify*
+
+---
+
+## ***Shared Preferences***
+*Store private key-value pairs like strings, numbers, and other primitive data types.*
+- As far as I can tell, spotify does not have any key-value pairs stored locally.
+
+---
+
+## ***App-Specific Files***
+*Store files in internal or external memory that only the app has permission to access.*
+- Music files are app-specific, you can not download these files. They are only available within the app.
+
+---
+
+## ***Shared Storage***
+*Store images, audio, video, and other files to be shared with other apps.*
+- Album art, song name, and artist names I assume would be saved under shared storage, in the event that another app would direct you into spotify. (Snapchat has the option to use Shazam, which in return gives you an album cover, artist name, and song name linked to spotify).
+
+---
+
+## ***Database***
+*Store private, structured data in a local database.*
+- As far as I am concerned, I believe spotify would only use a local database in the event that the user wanted to 'download' the music for offline playback.
+
+---
+
+## ***Cloud***
+*Store private or public data on the internet.*
+- Music files are saved to cloud storage; along with profile settings/preferences and playlists.
+ 
+</details>
+
+ ---
+## **Activity 0802:**
+<details>
+<summary>Click here to show answer</summary>
+
+## **To-Do List - Advanced Storage Strategies**
+
+## ***Shared Preferences***
+*Store private key-value pairs like strings, numbers, and other primitive data types.*
+- Shared Preferences could be used to store 'theme' or settings within the app, maybe key-values such as fontSize-int, theme-dark/theme-light, etc.
+
+---
+
+## ***App-Specific Files***
+*Store files in internal or external memory that only the app has permission to access.*
+- Files could be encrypted, leaving the list visibile only within the app and unable to be read by other apps/software.
+
+---
+
+## ***Shared Storage***
+*Store images, audio, video, and other files to be shared with other apps.*
+- Notes that include media might store said data here, so that it can be shared and untilized by other apps.
+
+---
+
+## ***Database***
+*Store private, structured data in a local database.*
+- Store individual notes and meta data within a local database in order to save more information regarding the note. (Meta data)
+
+---
+
+## ***Cloud***
+*Store private or public data on the internet.*
+- Cloud storage could be used in the event that the app supports multiple device usage, so you can access your notes on different devices.
+
+</details>
+
+---
+---
+
