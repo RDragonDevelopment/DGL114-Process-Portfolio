@@ -299,3 +299,25 @@ Good Interface | Bad Interface
 ---
 ---
 
+## **Activity 0901:**
+<details>
+<summary>Click here to show answer</summary>
+
+ > Room is an alternative to using SQLite API's directly, this means it will provide verification during compile-time, streamline database migration paths, and even help a user browse content while an app is offline for any reason.
+
+ > The main components of Room are the Database class, Data entities, and Data access objects (DAOs). The Database class holds the database and serves as an access point for that information. Data entities would be the tables within the database, and DAO's are the way for the app to execute SQL commands such as update, delete, insert, and query.
+ 
+</details>
+
+ ---
+## **Activity 0902:**
+<details>
+<summary>Click here to show answer</summary>
+
+ > To get started, a *fragment* is a reusable portion of UI within an app. A fragment would be a collection of UI elements that could move around on the screen based on screen size for example. This would work perfectly for an application with a side-bar menu on large screens, and a bottom bar menu on smaller screens.
+
+</details>
+
+---
+---
+
