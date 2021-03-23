@@ -321,3 +321,37 @@ Good Interface | Bad Interface
 ---
 ---
 
+## **Activity 1002:**
+<details>
+<summary>Click here to show answer</summary>
+
+## Main Concerns to consider when implementing Notifications:
+
+### **How important is the information?**
+- Depending on how important this information is to the user, you might need to decide between having the notification presented as a heads-up notification. A Heads-Up Notification would appear as a floating notification on top of the screen and possibly have some buttons implemented for the user to take action immediately.
+
+### **What types of information are being shared with the notification?**
+- Depending on the type of application being developed, there might be a reason you need to have the user open the app back up. Maybe you want the user to come back and play a game after an alloted time, maybe they have a free gift waiting for them to open, or there could be someone messaging them and they might want to reply. In cases like this, you would want to consider the context of the notification to determine if you need added controls such as "Reply", "Ignore", etc. Not every notification is going to require the same user feedback.
+ 
+</details>
+
+ ---
+## **Activity 1003:**
+<details>
+<summary>Click here to show answer</summary>
+
+## Important Practises and Considerations for Notifications:
+
+- Do ***NOT*** send the user notifications if:
+  - You wish to advertise another product.
+  - The app has never been opened by the user
+  - You want the user to 'rate' the app
+
+<p>You do not want a notification to contain too little or too much detail. You need to be able to provide the user with direct value.</p>
+
+Although, some notifications are ***Required*** to be used. An example of required notifications would be app processes that run in the background without the user directly interacting with them.
+
+</details>
+
+---
+---
