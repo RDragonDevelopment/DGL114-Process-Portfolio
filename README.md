@@ -355,3 +355,33 @@ Although, some notifications are ***Required*** to be used. An example of requir
 
 ---
 ---
+
+## **Activity 1101:**
+<details>
+<summary>Click here to show answer</summary>
+
+Animation Type | Animation Overview
+------ | ---
+ **Frame-by-Frame** | Much like a film, multiple pictures with subtle differences are shown in quick succession to produce the illusion of movement within the image.
+ **Tween Animation** | A series of transformations to make an object appear to be moving, rotating, scaling in size, etc.
+ **Drawable Animation** | A type of frame-by-frame animation, where XML drawables are cycled back and forth to imitate movement.
+ **View Animation** | A type of tween animation used on a view object in order to rotate, scale, and translate that object.
+ **Property Animation & Timer Interpolators** | When a property of an object is changed but that change occurs over a fixed length of time.
+ **Property/Value Animation** | A fixed time animation that takes place after calculating the different starting and ending values.
+ **Animator Sets** | A series of animations that take place one after the other.
+ 
+</details>
+
+ ---
+## **Activity 1102:**
+<details>
+<summary>Click here to show answer</summary>
+
+### **What have I learned about the principles of designing for motion in smartphone apps?**
+
+> There are different principles when performing animation/movement within an app, either informative, focused, or expressive. Motion can be expressed to match the style and personality of a brand. Motion can also be used as feedback, to help indicate the status of user or system actions (Successful/Unsuccessful password/pin).
+
+</details>
+
+---
+---
